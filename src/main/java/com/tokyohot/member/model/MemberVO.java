@@ -1,4 +1,4 @@
-package com.TokyoHot.member.model;
+package com.tokyohot.member.model;
 
 public class MemberVO {
 	
