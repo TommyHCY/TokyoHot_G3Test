@@ -39,7 +39,7 @@ import java.util.Objects;
 		}
 	public static void main(String[] args) {
 		System.out.println("玉祥好帥");
-		System.out.println("玉祥好帥!！!");
+		System.out.println("玉祥好帥!！！!！");
 	}
 
 }
